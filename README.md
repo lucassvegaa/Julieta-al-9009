@@ -2,8 +2,8 @@
 
 **Introducción a la ingeniería año2023**
 
-1. Eugenio Alastra
-2. Mateo Isgró
+1. Eugenio Alastra euge2005ag@gmail.com
+2. Mateo Isgró mateoisgro@gmail.com
 3. Pedro Farjo pedrofarjo@gmail.com
 4. Ignacio March
 5. Lucas Vega lucasvega762@gmail.com
