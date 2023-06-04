@@ -7,3 +7,6 @@
 3. Pedro Farjo pedrofarjo@gmail.com
 4. Ignacio March nachomarch0303@gmail.com
 5. Lucas Vega lucasvega762@gmail.com
+
+
+Trabajo revisado y aprobado por **R. Palma** 4 Jun 2023
